@@ -1,4 +1,9 @@
 h3 {
     color: aqua;
     font-size: 10px;
+    font-family: roboto;
+}
+p{
+    font-weight:500;
+    font-family: roboto; 
 }
